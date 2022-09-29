@@ -6,5 +6,7 @@
 
 
 ### Checks
--[ ] Ready for staging (required)
--[ ] Needs environment variables (optional)
+
+- [ ] Ready for staging (required)
+
+- [ ] Needs environment variables (optional)
