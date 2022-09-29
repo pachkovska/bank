@@ -1,1 +1,1 @@
-Template test
+test
